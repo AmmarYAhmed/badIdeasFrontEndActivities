@@ -1,0 +1,23 @@
+﻿body {
+    font-family: Cambria;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: teal;
+    font-size: 2em;
+}
+
+p {
+}
+
+a {
+    /* color: inherit; */
+    padding: 10px;
+    background-color: teal;
+    line-height: 40px;
+}
