@@ -1,5 +1,5 @@
 ﻿function showhide() {
-    var x = document.getElementByID("vision");
+    var x = document.getElementById("vision");
     if (x.style !== "none") {
         x.style.display = "none";
     }
