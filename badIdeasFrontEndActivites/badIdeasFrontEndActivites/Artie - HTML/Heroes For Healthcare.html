@@ -7,13 +7,13 @@
     <script src="ourSite.js"></script>
 
 </head>
-<body>
+<body onload="showHide()">
     <h1>Heroes for Healthcare</h1>
     <div>
         <h3>Mission</h3>
         <p>Our non-profit organization is a resource for our military personnel to start a career in healthcare.</p>
     </div>
-    <div align ="right">
+    <div align="right">
         <h3>Unemployed Veterans</h3>
         <p>Many U.S. Veterans find it hard to secure a job in healthcare when they’re ready to work in the civilian world. Even after showing dedication, strong work ethic, and leadership while serving our country, many military members can’t find jobs.</p>
         <ul>
@@ -23,7 +23,8 @@
             </li>
         </ul>
     </div>
-    <div>
+    <button onclick="showHide()">Show Message from the president</button>
+    <div id="vision">
         <h3>Message from the President</h3>
         <p>
             I started Heroes for Healthcare to help our U.S. military personnel receive the resources and credentials they need to continue their career in healthcare as a civilian.
