@@ -4,12 +4,13 @@
     background-color: white;
     padding-left: 50px;
     padding-right: 50px;
-    border-radius: 5px;
+    border-radius: 0px;
     margin-left: 170px;
     margin-right: 170px;
     padding-top: 10px;
     padding-bottom: 10px;
     line-height: 35px;
+    margin-bottom:0px;
 
 }
 h1 {
@@ -36,18 +37,18 @@ h2 {
     font-family: Calibri;
     padding: 10px, 10px;
     color: cadetblue;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 ul {
     border: 0px;
-    border-radius: 5px;
+    border-radius: 0px;
     border-style: solid;
     border-color: azure;
     background-color: cadetblue;
     font-size: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 170px;
+    margin-right: 170px;
     font-family: Calibri;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -67,6 +68,15 @@ img {
     margin-bottom: 70px;
 }
 .group {
-    margin: 100px;
+    margin: 50px 100px 50px 100px;
     background-color: powderblue;
+}
+.button {
+    background-color: cadetblue;
+    border:none;
+    color:cadetblue;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 15px;
+    border-radius:6px;
 }
