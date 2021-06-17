@@ -1,6 +1,6 @@
 ﻿p{
     font-family: sans-serif;
-    color: darkturquoise;
+    color: gray;
     background-color: white;
     padding-left: 50px;
     padding-right: 50px;
@@ -60,7 +60,7 @@ img {
     border-radius: 20px;
 }
 #bigBox {
-    background-color: #CEE7E9;
+    background-color: aliceblue;
     border-radius: 30px;
     margin-left: 20px;
     margin-right: 20px;
