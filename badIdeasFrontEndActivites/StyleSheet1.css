@@ -1,0 +1,16 @@
+﻿body
+{
+    background-color: aquamarine;
+}
+h1 {
+    color:blue;
+}
+p {
+    color: red;
+}
+.intro {
+    background-color: yellow;
+}
+div {
+    padding-left: 45px;
+}
